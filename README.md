@@ -1,4 +1,12 @@
-### Hi there 👋
+# Halo Semuanya 👋
+
+Saya **Dafa Arif Nurkholis**.\
+Kuliah di **Universitas Muhammdiyah Purwokerto** dengan prodi **Teknik Informatika**.\
+Saya sangat tertarik dengan dunia **Digital Forensik**.
+
+Jika ingin mengenal saya lebih lanjut, bisa ikuti akun media sosial saya:
+* [Instagram](https://www.instagram.com/dafarifn20)
+* [Facebook](https://www.facebook.com/dafa.a.nurkholis)
 
 <!--
 **Krafolis/Krafolis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
