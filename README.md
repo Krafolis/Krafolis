@@ -1,7 +1,7 @@
 # Halo Semuanya 👋
 
 Saya **Dafa Arif Nurkholis**.\
-Kuliah di **Universitas Muhammdiyah Purwokerto** dengan prodi **Teknik Informatika**.\
+Kuliah di **Universitas Muhammadiyah Purwokerto** dengan prodi **Teknik Informatika**.\
 Saya sangat tertarik dengan dunia **Digital Forensik**.
 
 Jika ingin mengenal saya lebih lanjut, bisa ikuti akun media sosial saya:
