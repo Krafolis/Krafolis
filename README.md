@@ -1,4 +1,4 @@
-# Hello everyone 👋
+# Hello Everyone 👋
 
 **Dafa Arif Nurkholis**\
 **Universitas Muhammadiyah Purwokerto**\
