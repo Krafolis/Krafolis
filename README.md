@@ -1,12 +1,14 @@
-# Halo Semuanya 👋
+# Hello everyone 👋
 
-Saya **Dafa Arif Nurkholis**.\
-Kuliah di **Universitas Muhammadiyah Purwokerto** dengan prodi **Teknik Informatika**.\
-Saya sangat tertarik dengan dunia **Digital Forensik**.
+**Dafa Arif Nurkholis**\
+**Universitas Muhammadiyah Purwokerto**\
+**Informatics Engineering**.\
+I have an interest in developing machine learning applications to analyzing data for company development. For now I'm learning about Machine Learning Development and Front-End Web.
 
-Jika ingin mengenal saya lebih lanjut, bisa ikuti akun media sosial saya:
+Follow me:
 * [Instagram](https://www.instagram.com/dafarifn20)
 * [Facebook](https://www.facebook.com/dafa.a.nurkholis)
+* [LinkedIn](https://www.linkedin.com/in/dafa-arif-nurkholis)
 
 <p align="left">
 <a href="https://github.com/Krafolis">
